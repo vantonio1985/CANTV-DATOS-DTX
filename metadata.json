@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CANTV: Sistema de Gestión de Datos y Transmisión - La que es",
+  "description": "Sistema de Gestión Automatizada para el Registro de Actividades Diarias, Control de Sobretiempos y Viáticos del Departamento de Datos y Transmisión de CANTV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
